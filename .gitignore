@@ -1,3 +1,4 @@
-readme.md
+*.md
+*.html
 scraper.ipynb
 licence
